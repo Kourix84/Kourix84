@@ -1,40 +1,29 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Kourosh  
 
-Welcome to my GitHub! 🚀 I'm a **[Your Title/Role]**, passionate about **[Your Interests]** and creating projects that make a difference.  
+Welcome to my GitHub! 🚀 I'm a **UI/UX** and **Front-end Developer**, passionate about Front-end development and creating projects that make a difference in any range.  
 
-🌍 Based in **[Your Location]**  
-📬 Reach me: **[Your Email or LinkedIn]**  
-🧩 Fun fact: **[Something Interesting About You]**  
+🌍 Based in **Eindhoven**  
+📬 Reach me: **kesmailtajer@yahoo.com**  
+🧩 Fun fact: **I'm also a horse rider!**  
 
 ---
 
 ## 🔧 Tech & Tools  
 ### Languages:  
-- **[Programming Language 1]**  
-- **[Programming Language 2]**  
-- **[Programming Language 3]**  
+- **HTML & CSS**  
+- **JavaScript**  
+- **PHP**
+-  **Python**
 
 ### Frameworks & Libraries:  
-- **[Framework/Library 1]**  
-- **[Framework/Library 2]**  
+- **Node JS**  
+- **Three JS**  
 
 ### Dev Tools:  
-- **[Tool 1]**  
-- **[Tool 2]**  
+- **Git**  
+- **Figma**
+- **VS Code**
 
----
-
-## 🌟 Highlights  
-### 🚀 Featured Projects  
-1. **[Project Name](#)**  
-   Description: **[Brief about the project]**  
-   Tech Stack: **[Techs used]**  
-
-2. **[Project Name](#)**  
-   Description: **[Brief about the project]**  
-   Tech Stack: **[Techs used]**  
-
----
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
@@ -42,15 +31,13 @@ Welcome to my GitHub! 🚀 I'm a **[Your Title/Role]**, passionate about **[Your
 ---
 
 ## 🏆 What I’m Up To  
-- 🔭 Currently working on **[Your Current Project]**  
-- 🌱 Learning **[What You’re Learning]**  
-- 🤝 Looking to collaborate on **[Your Interests/Projects]**  
+- 🔭 Currently working on **Nasmak PM**  
+- 🌱 Learning **React**  
 
 ---
 
 ☕ Let’s connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-lightgrey)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kourosh-esmaeil-tajer)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/kourosh__e.t)
 
 ---
