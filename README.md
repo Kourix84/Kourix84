@@ -16,6 +16,7 @@ Welcome to my GitHub! 🚀 I'm a **UI/UX** and **Front-end Developer**, passiona
 -  **Python**
 
 ### Frameworks & Libraries:  
+- **React** 
 - **Node JS**  
 - **Three JS**  
 
@@ -23,7 +24,6 @@ Welcome to my GitHub! 🚀 I'm a **UI/UX** and **Front-end Developer**, passiona
 - **Git**  
 - **Figma**
 - **VS Code**
-- 
 ---
 
 ## 🏆 What I’m Up To  
