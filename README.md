@@ -28,7 +28,7 @@ Welcome to my GitHub! 🚀 I'm a **UI/UX** and **Front-end Developer**, passiona
 ---
 
 ## 🏆 What I’m Up To  
-- 🔭 Currently working on **Nasmak PM**  
+- 🔭 Currently working on **Beyond the Board**  
 - 🌱 Learning **React**  
 
 ---
