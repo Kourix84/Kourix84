@@ -18,7 +18,8 @@ Welcome to my GitHub! 🚀 I'm a **UI/UX** and **Front-end Developer**, passiona
 ### Frameworks & Libraries:  
 - **React** 
 - **Node JS**  
-- **Three JS**  
+- **Three JS**
+- **Mongo DB**
 
 ### Dev Tools:  
 - **Git**  
