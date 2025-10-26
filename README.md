@@ -34,10 +34,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME/">
+  <a href="[https://www.linkedin.com/in/LINKEDIN_USERNAME/](https://www.linkedin.com/in/kourosh-esmaeil-tajer/)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
   </a>
-  <a href="https://instagram.com/INSTAGRAM_HANDLE">
+  <a href="https://instagram.com/Kourosh__e.t/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
   </a>
   <a href="mailto:git@kourix.dev">
