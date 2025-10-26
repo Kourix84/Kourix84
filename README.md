@@ -5,8 +5,6 @@
 
 ---
 
-## Kourix (Kourosh Esmaeil Tajer)
-
 ![Contributions graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kourix&theme=github_dark)
 
 - ⏳ Joined GitHub 3 years ago  
