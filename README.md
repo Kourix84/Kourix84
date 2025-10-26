@@ -1,6 +1,7 @@
-# Github-profile-summary-cards
-
-⭐ Welcome to my Github Profile ⭐
+<h1 align="center">Hi, I'm Kourix 👋</h1>
+<p align="center">
+  Mobile App Dev @ Fontys ICT • Swift/iOS • React • UI/UX • Equine tech nerd 🐎
+</p>
 
 ---
 
@@ -8,10 +9,13 @@
 
 ![Contributions graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kourix&theme=github_dark)
 
-- 💻 108+ Contributions on GitHub  
-- 📂 Public Repos: 4  
 - ⏳ Joined GitHub 3 years ago  
-- 📧 git@kourix.dev  
+- 📧 git@kourix.dev
+
+---
+
+### Tech I use
+`Swift` · `SwiftUI` · `Xcode` · `React` · `TypeScript` · `Vite` · `Tailwind` · `Firebase` · `IndexedDB` · `Figma`
 
 ---
 
