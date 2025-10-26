@@ -5,17 +5,6 @@
   Mobile App Dev @ Fontys ICT • Swift/iOS • React • UI/UX • Equine tech nerd 🐎
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://instagram.com/INSTAGRAM_HANDLE">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:git@kourix.dev">
-    <img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white">
-  </a>
-</p>
 
 ---
 
