@@ -5,7 +5,7 @@
 
 ---
 
-![Contributions graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kourix&theme=github_dark)
+![Contributions graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kourix84&theme=github_dark)
 
 - ⏳ Joined GitHub 3 years ago  
 - 📧 git@kourix.dev
@@ -18,18 +18,18 @@
 ---
 
 ### Top Languages by Repo
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kourix&theme=github_dark)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kourix84&theme=github_dark)
 
 ### Top Languages by Commit
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kourix&theme=github_dark)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kourix84&theme=github_dark)
 
 ---
 
 ### Stats
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kourix&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kourix84&theme=github_dark)
 
 ### Commits (UTC +1.00)
-![Commits per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kourix&theme=github_dark&utcOffset=+1)
+![Commits per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kourix84&theme=github_dark&utcOffset=+1)
 
 ---
 
