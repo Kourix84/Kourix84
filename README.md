@@ -1,40 +1,60 @@
-# Hi there! 👋 I'm Kourosh  
+<!-- Profile README for GITHUB_USERNAME -->
 
-Welcome to my GitHub! 🚀 I'm a **UI/UX** and **Front-end Developer**, passionate about Front-end development and creating projects that make a difference in any range.  
+<h1 align="center">Hi, I'm Kourix 👋</h1>
+<p align="center">
+  Mobile App Dev @ Fontys ICT • Swift/iOS • React • UI/UX • Equine tech nerd 🐎
+</p>
 
-🌍 Based in **Eindhoven**  
-📬 Reach me: **kesmailtajer@yahoo.com**  
-🧩 Fun fact: **I'm also a horse rider!**  
-
----
-
-## 🔧 Tech & Tools  
-### Languages:  
-- **HTML & CSS**  
-- **JavaScript**  
-- **PHP**
--  **Python**
-
-### Frameworks & Libraries:  
-- **React** 
-- **Node JS**  
-- **Three JS**
-- **Mongo DB**
-
-### Dev Tools:  
-- **Git**  
-- **Figma**
-- **VS Code**
----
-
-## 🏆 What I’m Up To  
-- 🔭 Currently working on **Beyond the Board**  
-- 🌱 Learning **React**  
+<p align="center">
+  <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/INSTAGRAM_HANDLE">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:git@kourix.dev">
+    <img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
-☕ Let’s connect:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/kourosh-esmaeil-tajer)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink)](https://instagram.com/kourosh__e.t)
+### About me
+- 🎯 Specialising in **Mobile App Development (SwiftUI/iOS)**, also comfortable with **React/Vite** and **UI/UX**.
+- 🐎 Building horse-sport tools (**AI course design app**) and fun utilities (**Car Spotter**).
+- 👥 Vice-president @ **Proxy** (Fontys ICT International study association); I design, organise, and ship.
+
+### Tech I use
+`Swift` · `SwiftUI` · `Xcode` · `React` · `TypeScript` · `Vite` · `Tailwind` · `Firebase` · `IndexedDB` · `Figma`
 
 ---
+
+## GitHub Overview (auto-cards)
+
+<!-- Profile Summary Cards (pick a theme you like; try solarized, dracula, github_dark, monokai) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GITHUB_USERNAME&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GITHUB_USERNAME&theme=github_dark" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GITHUB_USERNAME&theme=github_dark" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GITHUB_USERNAME&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GITHUB_USERNAME&theme=github_dark&utcOffset=+1" alt="Commit Time (UTC+1)" />
+</p>
+
+<!-- Extras (optional) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GITHUB_USERNAME&theme=github-dark&hide_border=true" alt="Streak" />
+</p>
+
+---
+
+### Featured projects
+- 🚗 **Car Spotter (SwiftUI)** – Camera capture, preview & local persistence (migrated from Core Data to a lightweight file-based store for speed & simplicity).
+- 🧭 **Course Design App (SwiftUI + AI)** – Generates rule-aware show-jumping courses; next step is training a larger dataset for better layouts.
+- 🟣 **Proxy assets** – Event posters, widgets, and micro-tools for our student association.
+
+---
+
+### Let’s connect
+- 💼 LinkedIn: [LINKEDIN_USERNAME](https://www.linkedin.com/in/LINKEDIN_USERNAME/)
+- 📸 Instagram: [@INSTAGRAM_HANDLE](https://instagram.com/INSTAGRAM_HANDLE)
+- ✉️ Email: git@kourix.dev
