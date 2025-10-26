@@ -1,8 +1,13 @@
-# Github-profile-summary-cards
+#⭐ Welcome to my Github Profile ⭐
 
-⭐ Welcome to my Github Profile ⭐
+---
 
-## Kourix (Kourosh Esmaeil Tajer)
+### 👋 About Me
+Hi! I’m **Kourix**, a Mobile App Development student at Fontys ICT 🇳🇱  
+I work with **SwiftUI**, **React/Vite**, and **UI/UX design**, combining creativity and code to build clean, functional apps.  
+I’m also passionate about **horse-tech**, designing AI tools for equestrian sports 🐎
+
+---
 
 <!-- Summary Cards (main charts) -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kourix84&theme=github_dark)
@@ -22,13 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kourix84&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourix84&layout=compact&theme=github_dark" alt="Top Languages"/>
 </p>
-
----
-
-### 👋 About Me
-Hi! I’m **Kourix**, a Mobile App Development student at Fontys ICT 🇳🇱  
-I work with **SwiftUI**, **React/Vite**, and **UI/UX design**, combining creativity and code to build clean, functional apps.  
-I’m also passionate about **horse-tech**, designing AI tools for equestrian sports 🐎
 
 ---
 
