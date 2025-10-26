@@ -47,4 +47,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kourix&style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Kourix84&style=for-the-badge&color=blue)
