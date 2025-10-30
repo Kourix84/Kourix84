@@ -19,9 +19,6 @@ I’m also passionate about **horse-tech**, designing AI tools for equestrian sp
 ---
 
 <!-- Fallback and extra stats (always load even if summary-cards is slow) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kourix84&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kourix84&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
