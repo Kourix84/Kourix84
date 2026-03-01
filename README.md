@@ -27,16 +27,4 @@ I’m also passionate about **horse-tech**, designing AI tools for equestrian sp
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kourosh-esmaeil-tajer/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="https://www.instagram.com/kourosh__e.t/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge">
-  </a>
-  <a href="mailto:git@kourix.dev">
-    <img alt="Email" src="https://img.shields.io/badge/Email-181717?logo=gmail&logoColor=white&style=for-the-badge">
-  </a>
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Kourix84&style=for-the-badge&color=blue)
