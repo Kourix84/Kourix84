@@ -18,13 +18,4 @@ I’m also passionate about **horse-tech**, designing AI tools for equestrian sp
 
 ---
 
-<!-- Fallback and extra stats (always load even if summary-cards is slow) -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kourix84&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kourix84&layout=compact&theme=github_dark" alt="Top Languages"/>
-</p>
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Kourix84&style=for-the-badge&color=blue)
